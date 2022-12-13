@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/real-estate/static/css/main.b8aa2f23.css",
+    "main.js": "/real-estate/static/js/main.2792abb5.js",
+    "static/media/inter-v12-latin-700.woff": "/real-estate/static/media/inter-v12-latin-700.7ad0df5561cc0933cead.woff",
+    "static/media/inter-v12-latin-600.woff": "/real-estate/static/media/inter-v12-latin-600.a8909bb7bbff51df8622.woff",
+    "static/media/inter-v12-latin-500.woff": "/real-estate/static/media/inter-v12-latin-500.2e89c7eec639d70f9770.woff",
+    "static/media/inter-v12-latin-regular.woff": "/real-estate/static/media/inter-v12-latin-regular.817c4274293e221c5076.woff",
+    "static/media/inter-v12-latin-700.woff2": "/real-estate/static/media/inter-v12-latin-700.54321e26b8bf4739a16d.woff2",
+    "static/media/inter-v12-latin-600.woff2": "/real-estate/static/media/inter-v12-latin-600.8f1e0300e8d26fa8919d.woff2",
+    "static/media/inter-v12-latin-500.woff2": "/real-estate/static/media/inter-v12-latin-500.c72c72b70c82b1f4bacf.woff2",
+    "static/media/public-sans-v14-latin-600.woff": "/real-estate/static/media/public-sans-v14-latin-600.46d0fc870793e47245ce.woff",
+    "static/media/public-sans-v14-latin-regular.woff": "/real-estate/static/media/public-sans-v14-latin-regular.1b9817f781c398bd2c50.woff",
+    "static/media/inter-v12-latin-regular.woff2": "/real-estate/static/media/inter-v12-latin-regular.be7cb18dc7caf47cf7e9.woff2",
+    "static/media/public-sans-v14-latin-600.woff2": "/real-estate/static/media/public-sans-v14-latin-600.302d52af6a07b15a5e56.woff2",
+    "static/media/public-sans-v14-latin-regular.woff2": "/real-estate/static/media/public-sans-v14-latin-regular.4758638f2eeeaf0dd6c4.woff2",
+    "index.html": "/real-estate/index.html",
+    "main.b8aa2f23.css.map": "/real-estate/static/css/main.b8aa2f23.css.map",
+    "main.2792abb5.js.map": "/real-estate/static/js/main.2792abb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8aa2f23.css",
+    "static/js/main.2792abb5.js"
+  ]
+}
